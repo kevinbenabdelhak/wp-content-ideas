@@ -54,3 +54,7 @@ L'utilisation de l'API OpenAI peut entraîner des frais en fonction du modèle d
 ### 1.0
 * Première version du plugin avec génération d'idées basée sur les titres existants.
 * Intégration de l'API OpenAI pour suggérer des idées de contenu.
+
+  <a href="https://kevin-benabdelhak.fr/soutenir/">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXY0cmdrdnNjcXlxb3hrcG15YmpzYWRqZ3BpeHNyY3I4YjZ1eXc0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R9mgVlsCuv6XCDK8Lb/giphy.gif" alt="Soutenir Kevin Benabdelhak pour développer des plugins WordPress" style="width:100%;" />
+</a>
